@@ -28,4 +28,7 @@
 
 ![Screenshot 2025-02-09 201221](https://github.com/user-attachments/assets/a36c5733-0e3a-4a8c-a38b-bbd2d0299d4e)
 
+![image](https://github.com/user-attachments/assets/9843d430-d635-4cc2-a588-5b290a514a58)
+
+
 This project highlights my skills in React.js development, state management, and UI responsiveness. 🚀
