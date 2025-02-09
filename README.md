@@ -1,4 +1,4 @@
-📝 #To-Do List - Very Basic React App
+#📝To-Do List - Very Basic React App
 To-Do React App is a simple yet functional task management application built using React.js and Bootstrap. It allows users to efficiently add tasks, mark them as completed with a ✅ tick icon, and remove them with a ❌ delete button. With a clean and responsive UI, this app showcases fundamental React concepts like state management, event handling, and component-based architecture.
 
 🚀 Features
