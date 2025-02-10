@@ -22,13 +22,14 @@
     ->map() function for rendering lists
  
  📷 Preview
-![Screenshot 2025-02-09 201123](https://github.com/user-attachments/assets/b352506a-244b-4dc3-850e-f085af05b069)
+ 
+     ![Screenshot 2025-02-09 201123](https://github.com/user-attachments/assets/b352506a-244b-4dc3-850e-f085af05b069)
 
-![Screenshot 2025-02-09 201207](https://github.com/user-attachments/assets/644ed461-09e3-4cb9-9494-600312ecdbf9)
+     ![Screenshot 2025-02-09 201207](https://github.com/user-attachments/assets/644ed461-09e3-4cb9-9494-600312ecdbf9)
 
-![Screenshot 2025-02-09 201221](https://github.com/user-attachments/assets/a36c5733-0e3a-4a8c-a38b-bbd2d0299d4e)
+    ![Screenshot 2025-02-09 201221](https://github.com/user-attachments/assets/a36c5733-0e3a-4a8c-a38b-bbd2d0299d4e)
 
-![image](https://github.com/user-attachments/assets/9843d430-d635-4cc2-a588-5b290a514a58)
+     ![image](https://github.com/user-attachments/assets/9843d430-d635-4cc2-a588-5b290a514a58)
 
 
 This project highlights my skills in React.js development, state management, and UI responsiveness. 🚀
