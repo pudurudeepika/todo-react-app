@@ -32,4 +32,4 @@ To-Do React App is a simple yet functional task management application built usi
 ![image](https://github.com/user-attachments/assets/9843d430-d635-4cc2-a588-5b290a514a58)
 
 
-    This project highlights my skills in React.js development, state management, and UI responsiveness. 🚀
+This project highlights my skills in React.js development, state management, and UI responsiveness. 🚀
